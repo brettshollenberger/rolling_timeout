@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "rolling_timeout"
   gem.homepage = "http://github.com/brettshollenberger/rolling_timeout"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{A gem for resettable timeouts}
+  gem.description = %Q{A gem for resettable timeouts}
   gem.email = "brett.shollenberger@gmail.com"
   gem.authors = ["brettshollenberger"]
   # dependencies defined in Gemfile
