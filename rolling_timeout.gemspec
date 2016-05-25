@@ -6,13 +6,13 @@
 
 Gem::Specification.new do |s|
   s.name = "rolling_timeout"
-  s.version = "0.0.1"
+  s.version = ""
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib"]
   s.authors = ["brettshollenberger"]
   s.date = "2016-05-25"
-  s.description = "A gem for resettable timeouts"
+  s.description = "TODO: longer description of your gem"
   s.email = "brett.shollenberger@gmail.com"
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -26,13 +26,14 @@ Gem::Specification.new do |s|
     "README.md",
     "Rakefile",
     "lib/rolling_timeout.rb",
+    "rolling_timeout.gemspec",
     "test/helper.rb",
     "test/test_rolling_timeout.rb"
   ]
   s.homepage = "http://github.com/brettshollenberger/rolling_timeout"
   s.licenses = ["MIT"]
   s.rubygems_version = "2.4.5.1"
-  s.summary = "A gem for resettable timeouts"
+  s.summary = "TODO: one-line summary of your gem"
 
   if s.respond_to? :specification_version then
     s.specification_version = 4
