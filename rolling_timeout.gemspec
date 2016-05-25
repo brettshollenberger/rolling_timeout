@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.authors = ["brettshollenberger"]
   s.date = "2016-05-25"
-  s.description = "TODO: longer description of your gem"
+  s.description = "A gem for resettable timeouts"
   s.email = "brett.shollenberger@gmail.com"
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -34,7 +34,7 @@ Gem::Specification.new do |s|
   s.homepage = "http://github.com/brettshollenberger/rolling_timeout"
   s.licenses = ["MIT"]
   s.rubygems_version = "2.4.5.1"
-  s.summary = "TODO: one-line summary of your gem"
+  s.summary = "A gem for resettable timeouts"
 
   if s.respond_to? :specification_version then
     s.specification_version = 4
